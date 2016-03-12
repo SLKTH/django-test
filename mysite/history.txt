@@ -1,0 +1,679 @@
+    1  sudo su
+    2  cd Desktop/
+    3  ls
+    4  cd workspace/
+    5  ls
+    6  cd objects_and_databases_7/
+    7  cd tracks/
+    8  ls
+    9  python tracks_edit.py 
+   10  ls
+   11  python tracks_edit.py 
+   12  ls
+   13  python
+   14  ls
+   15  cd Pyth
+   16  cd Documents/
+   17  cd Python/
+   18  ls
+   19  python tulps.py 
+   20  cd Documents/
+   21  cd Python/
+   22  ls
+   23  python tulps.py 
+   24  wget http://www.py4inf.com/code/mbox-short.txt
+   25  ls
+   26  python tulps.py 
+   27  vi tulps.py
+   28  python tulps.py 
+   29  cat mbox-short.txt 
+   30  python tulps.py 
+   31  cat mbox-short.txt 
+   32  python tulps.py 
+   33  sudo su
+   34  vi
+   35  ls
+   36  vi python.py 
+   37  python python.py 
+   38  python
+   39  ls
+   40  mv *.* Documents/
+   41  ls
+   42  mv fu* Documents/
+   43  ls
+   44  cd Documents/
+   45  cd Python/Many_Students/
+   46  ls
+   47  python roster.py 
+   48  ls
+   49  cd ..
+   50  ls
+   51  mkdir Tulps
+   52  mv *.* Tulps/
+   53  ls
+   54  mv Tulps/Python.7z .
+   55  ls
+   56  apt-cache search 7zip
+   57  apt-get install p7zip
+   58  sudi apt-get install p7zip
+   59  sudo apt-get install p7zip
+   60  p7zip -h
+   61  man p7zip 
+   62  ls
+   63  p7zip -d Python.7z 
+   64  ls
+   65  mkdir Tulpsb
+   66  cp *.* Tulpsb/
+   67  ls
+   68  rm *.* Tulpsb/
+   69  ls
+   70  mkdir Geodata
+   71  cd Geodata/
+   72  ls
+   73  wget  http://www.pythonlearn.com/code/geodata.zip
+   74  unzip geodata.zip 
+   75  ls
+   76  cd geodata/
+   77  ls
+   78  gedit where.data 
+   79  python geoload.py 
+   80  python geodump.py 
+   81  cat where.js 
+   82  firefox where.html &
+   83  cls
+   84  clear
+   85  python geoload.py 
+   86  python geodump.py 
+   87  python geoload.py 
+   88  python geodump.py 
+   89  firefox where.html 
+   90  python geoload.py 
+   91  python geodump.py 
+   92  firefox where.html 
+   93  python geoload.py 
+   94  python geodump.py 
+   95  firefox where.html 
+   96  ls
+   97  vi
+   98  sudo apt-cache search atom
+   99  sudo apt-cache search atom | less
+  100  sudo su
+  101  git clone https://github.com/gmarik/Vundle.vim.git ~/.vim/bundle/Vundle.vim
+  102  sudo apt install git
+  103  git clone https://github.com/gmarik/Vundle.vim.git ~/.vim/bundle/Vundle.vim
+  104  touch ~/.vimrc
+  105  vi .vimrc 
+  106  vim .vimrc 
+  107  vim-gnome
+  108  ls
+  109  vi .vimrc
+  110  gedit .vimrc
+  111  vi
+  112  gedit .vimrc
+  113  rm .vimrc
+  114  rm -R .vim/bundle/Vundle.vim/*
+  115  cd .vim/bundle/
+  116  git clone https://github.com/klen/python-mode.git
+  117  vi ~/.vimrc
+  118  vi ~/.vimrc~ 
+  119  vi ~/.vimrc
+  120  rm -R .vim/bundle/*
+  121  rm -R *
+  122  ls
+  123  rm -R Vundle.vim/
+  124  ls
+  125  cd ..
+  126  ls
+  127  cd /home/robin/.ssh/
+  128  ls
+  129  cat id_dsa.pub 
+  130  ls
+  131  cp id_dsa.pub /media/robin/
+  132  sudo cp id_dsa.pub /media/robin/
+  133  cd /media/robin/
+  134  ls
+  135  cp id_dsa.pub USB\ DISK/
+  136  sudo apt install weechat
+  137  weechat
+  138  man weechat
+  139  weechat
+  140  history
+  141  ssh pi@192.168.2.26 
+  142  ssh  ssh-keygen -f "/home/robin/.ssh/known_hosts" -R 192.168.2.26
+  143  ssh-keygen -f "/home/robin/.ssh/known_hosts" -R 192.168.2.26
+  144  ssh pi@192.168.2.26 
+  145  ssh robin@192.168.2.26 
+  146  ssh pi@192.168.2.26 
+  147  ls .ssh/id_dsa.pub 
+  148  cat .ssh/id_dsa.pub 
+  149  ssh-add ~/.ssh/id_dsa.pub 
+  150  man ssh
+  151  ls
+  152  cd .ssh/
+  153  ls
+  154  ssh -i id_dsa pi@192.168.2.26
+  155  weechat
+  156  telnet 192.168.2.1
+  157  ssh 192.168.2.1
+  158  ssh root@192.168.2.1
+  159  ls
+  160  uname -r
+  161  dmesg
+  162  ssh root@192.168.2.1
+  163  ssh pi@192.168.2.25
+  164  ssh pi@192.168.2.26
+  165  ls
+  166  cd .ssh/
+  167  ls
+  168  rm id_dsa
+  169  rm id_dsa.pub 
+  170  l
+  171  ls
+  172  cat known_hosts
+  173  cd
+  174  ls
+  175  mkdir git
+  176  ls
+  177  cd gi
+  178  cd git
+  179  ls
+  180  git clone git@github.com:SLKTH/videojs-record.git
+  181  ssh-keygen -t rsa -b 4096 -C "stickabush@gmail.com"
+  182  ls
+  183  cat ../.ssh/id_rsa.pub 
+  184  git clone git@github.com:SLKTH/videojs-record.git
+  185  ls
+  186  cd videojs-record/
+  187  ls
+  188  vi README.md 
+  189  git whoami
+  190  git --help
+  191  git status
+  192  git config --list
+  193  git remote add upstream https://github.com/collab-project/videojs-record.git
+  194  git --status
+  195  git config --status
+  196  git status
+  197  git remote -v
+  198  git diff
+  199  git commit -m "Fixed typo."
+  200  git config --global user.email "stickabush@gmail.com"
+  201  git config --global user.name "Robin Prak"
+  202  git status
+  203  git commit -m "Fixed typo."
+  204  git commit -am "Fixed typo."
+  205  git status
+  206  git push
+  207  git status
+  208  git fetch upstream
+  209  git merge upstream/master
+  210  git status
+  211  git push
+  212  ssh 192.168.2.26
+  213  ssh 192.168.2.28
+  214  nmap 192.168.2.26
+  215  telnet 192.168.2.26
+  216  sudo apt install map
+  217  sudo apt install nmap
+  218  nmap 192.168.2.26
+  219  nmap 192.168.2.26 -p
+  220  nmap -v 192.168.2.28
+  221  nmap -v 192.168.2.26
+  222  sudo su
+  223  ssh pi@192.168.2.16
+  224  ssh pi@192.168.2.17
+  225  ls
+  226  ssh pi@192.168.2.17
+  227  ssh-keygen 
+  228  ls
+  229  cd .ssh/
+  230  ls
+  231  cp id_rsa.pub /media/robin/USB\ DISK/
+  232  ssh pi@192.2.168.17
+  233  ssh pi@192.2.168.16
+  234  ssh pi@192.2.168.17
+  235  ssh pi@192.168.2.17
+  236  ifconfig eth0 down
+  237  ifconfig 
+  238  ifconfig enp3s0 eth0 down
+  239  ifconfig enp3s0 down
+  240  sudo ifconfig enp3s0 down
+  241  sudo ifconfig enp3s0 up
+  242  cd Documents/
+  243  python try.py 
+  244  ls
+  245  cd do
+  246  cd Documents/
+  247  ls
+  248  ls -l
+  249  mv function_pay function.py
+  250  python function.py 
+  251  sudo su
+  252  sudo apt install mmpeg3
+  253  sudo apt install ffmpeg3
+  254  sudo apt search mpeg3
+  255  sudo apt search ffmp
+  256  sudo apt install ffmpeg
+  257  ffmpeg http://podcast.dgen.net/rinsefm/podcast/Youngsta010316.mp3
+  258  man ffmpeg
+  259  sudo apt remove ffmpeg
+  260  ls
+  261  cd git
+  262  ls
+  263  cd popdb/
+  264  git clone git@github.com:SLKTH/popdb.git
+  265  git -help ssh
+  266  git help ssh
+  267  git -h
+  268  git --help
+  269  git config
+  270  git config -get-all
+  271  git config --get-all
+  272  git config --get ssh
+  273  git config --get-all
+  274  git slkhh@github.com:SLKTH/popdb.git
+  275  git slkth@github.com:SLKTH/popdb.git
+  276  git clone slkth@github.com:SLKTH/popdb.git
+  277  ls
+  278  ssh -T git@github.com
+  279  ssh -vT git@github.com
+  280  man ssh-keygen
+  281  ssh-keygen -t rsa b 4096 -C "stickabush@gmail.com"
+  282  ssh-keygen -t rsa -b 4096 -C "stickabush@gmail.com"
+  283  cat ~/.ssh/id_rsa.pub 
+  284  ssh -vT git@github.com
+  285  nano /home/robin/.ssh/known_hosts
+  286  git clone slkth@github.com:SLKTH/popdb.git
+  287  git clone slkth@github.com:SLKTH/popdb/popdb.git
+  288  git clone git@github.com:SLKTH/popdb.git
+  289  ssh -T git@github.com
+  290  eval "$(ssh-agent -s)"
+  291  ssh-add -l -E md5
+  292  ssh-add
+  293  ssh -T git@github.com
+  294  git clone git@github.com:SLKTH/popdb.git
+  295  git status
+  296  ls
+  297  rm github
+  298  rm github.pub 
+  299  ls
+  300  cd popdb/
+  301  ls
+  302  cd ..
+  303  rm -R popdb/
+  304  ls
+  305  cd ..
+  306  git -h everyday
+  307  git everydah
+  308  git everyday
+  309  git --help
+  310  git status
+  311  cd popdb/
+  312  ls
+  313  git init
+  314  git fetch
+  315  ls
+  316  cd popdb/
+  317  ls
+  318  cd ..
+  319  ls
+  320  git push
+  321  git push --set-downstream master
+  322  git push --set-upstream master
+  323  git push --set-upstream popdb.git
+  324  git
+  325  git merge
+  326  git merge current master
+  327  git pull master
+  328  git add readme.txt 
+  329  git status
+  330  git log
+  331  git commit
+  332  git log
+  333  git checkout master
+  334  git merge origin master
+  335  git push
+  336  git push --set-upstream origin master
+  337  git pull
+  338  git pull remote master
+  339  git pull origin
+  340  git pull master
+  341  git pull origin/master
+  342  git pull remote
+  343  git checkout master
+  344  git merge master
+  345  git push remote
+  346  git push remote :master
+  347  git push master
+  348  git pull --rebase remote master
+  349  git pull --rebase remote 
+  350  git pull --rebase master
+  351  git checkout develop
+  352  git checkout -b readme develop
+  353  git checkout -b develop
+  354  git merge develop
+  355  git merge master
+  356  git checkout master
+  357  git merge master
+  358  git push master
+  359  git push popdb master
+  360  ls
+  361  rm -R popdb/
+  362  ls
+  363  git init
+  364  git status -s
+  365  git config --global user.name "Robin Prak"
+  366  git config --global user.email stickabush@gmail.com
+  367  git add *
+  368  git status -s
+  369  ls
+  370  git add *
+  371  ls
+  372  git add readme.txt 
+  373  git status -s
+  374  git status -S
+  375  git log
+  376  git status
+  377  git commit -M "Adding touched readme.txt"
+  378  git commit -m "Adding touched readme.txt"
+  379  git commit -a
+  380  git remote add origin https://github.com/SLKTH/popdb.git
+  381  git remote add https://github.com/SLKTH/popdb.git
+  382  git remote add -m https://github.com/SLKTH/popdb.git
+  383  git remote add -m master https://github.com/SLKTH/popdb.git
+  384  git remote add -m master
+  385  git remote add -m popdb https://github.com/SLKTH/popdb.git
+  386  git push master origin
+  387  git push master 
+  388  git push master popdb
+  389  git init
+  390  touch README
+  391  git add README 
+  392  nano README 
+  393  git add README 
+  394  git commit -m "first README"
+  395  git remote add origin git@github.com:SLKTH/popdb.git
+  396  git push -u origin master
+  397  touch LICENSE
+  398  ls
+  399  touch .gitignore
+  400  cat "HI" > LICENSE 
+  401  echo "HI" > LICENSE 
+  402  git add -u
+  403  git commit -m "Added LICENSE .gitignore"
+  404  git push -u origin master
+  405  git status
+  406  git add -u
+  407  git status
+  408  git add *
+  409  git status
+  410  git add .*
+  411  git add .gitignore 
+  412  git status
+  413  git merge -u origin master
+  414  git merge 
+  415  git merge -u origin master
+  416  git push -u origin master
+  417  git help
+  418  git branch performances 
+  419  git status
+  420  git checkout performances
+  421  git add *
+  422  ls
+  423  git status
+  424  git commit -M "Testing performances branche.."
+  425  git commit -m "Testing performances branche.."
+  426  git help push
+  427  git push origin performances
+  428  git status
+  429  ls
+  430  cd
+  431  ls
+  432  cd git/
+  433  ls
+  434  cd popdb/
+  435  ls
+  436  sudo apt upgrade
+  437  sudo apt autoremove
+  438  l
+  439  sudo apt search meteor
+  440  curl https://install.meteor.com/ | sh
+  441  meteor create ~/artist.db.jk
+  442  abase ‘n’ schema for use in any (programming) language (e.g. uses plain text datasets).
+  443  meteor
+  444  cd 
+  445  ls
+  446  cd artist.db.jk/
+  447  ls
+  448  meteor 
+  449  ls
+  450  rake
+  451  apt show rake
+  452  ls
+  453  cd ..
+  454  ls
+  455  mk artist.db.jk/ Desktop/
+  456  mv arlx
+  457  lx
+  458  ls
+  459  mv artist.db.jk/ git/
+  460  ls
+  461  cd git/
+  462  s
+  463  ls
+  464  mkdir artists.db
+  465  ls
+  466  mkdir popdb
+  467  ls
+  468  cd popdb/
+  469  ls
+  470  git init
+  471  touch readme.MD
+  472  touch readme.txt
+  473  rm readme.MD 
+  474  ls
+  475  git status
+  476  git add '*.txt'
+  477  git commit
+  478  git status
+  479  git branches
+  480  git branch
+  481  git remote add origin https://github.com/slkth/popdb.git
+  482  git push -u origin master
+  483  git remote add origin https://github.com/slkth/popdb.git
+  484  git status
+  485  git help
+  486  git log
+  487  git pull git@github.com:SLKTH/popdb.git
+  488  ssh-keygen 
+  489  ls
+  490  mv ~/.ssh/^Igithub github
+  491  rm ~/.ssh/*hub*
+  492  ssh-keygen 
+  493  cat ~/.ssh/id_rsa
+  494  cat ~/.ssh/id_rsa.pub 
+  495  git help
+  496  git help -a
+  497  git
+  498  git help everyday
+  499  man virtualenv
+  500  apt show virtualenv
+  501  ls
+  502  cd ..
+  503  ls
+  504  mkdir clones
+  505  mkdir repo
+  506  mv popdb/ repo/
+  507  cd clones/
+  508  ls
+  509  git clone git://github.com/openmundi/world.db.git
+  510  world.db
+  511  worlddb
+  512  ls
+  513  cd world.db/
+  514  ls
+  515  worlddb
+  516  cd ..
+  517  worlddb setup --include ./world.db
+  518  curl
+  519  man curl
+  520  man wget
+  521  wget -v https://audio-video.gnu.org/video/misc/2015-01__GNU_Guix__The_Emacs_of_Distros.webm
+  522  pip
+  523  sudo apt-get install setuptools
+  524  sudo apt-get install setup-tools
+  525  apt search setup tools
+  526  apt python-setuptools
+  527  apt install python-setuptools
+  528  sudo apt update
+  529  apt list --upgradable
+  530  apt upgrade
+  531  sudo apt upgrade
+  532  lsusb
+  533  find / | grep sdd
+  534  cd /media/robin/
+  535  ls
+  536  cd 01D0D86D3DB82EA0/
+  537  ls
+  538  cd .
+  539  cd ..
+  540  ls
+  541  mkdir android
+  542  sudo mkdir android
+  543  sudo su
+  544  dmesg
+  545  dmesg -w
+  546  blkid
+  547  blkid --help
+  548  dmesg
+  549  fsck /dev/sdb1
+  550  mount
+  551  format
+  552  umount /dev/sdb1
+  553  fsck /dev/sdb1
+  554  sudo fsck /dev/sdb1
+  555  fdisk /dev/sdb1
+  556  sudo fdisk /dev/sdb1
+  557  mount
+  558  sudo fdisk /dev/sdb1
+  559  fdisk /dev/sdb1
+  560  sudo fdisk /dev/sdb1
+  561  partprobe
+  562  mount /dev/sdb1 /mnt/
+  563  mount
+  564  dmesg
+  565  sudo mkfs.ext4 /dev/sdb1
+  566  ls
+  567  mount /dev/sdb1
+  568  cd
+  569  cd ..
+  570  ls
+  571  mkdir /mnt/sdcard
+  572  sudo mkdir /mnt/sdcard
+  573  mount /dev/sdb1 /mnt/sdcard/
+  574  sudo mount /dev/sdb1 /mnt/sdcard/
+  575  ls
+  576  cp -R robin/ /mnt/sdcard/
+  577  sudo cp -R robin/ /mnt/sdcard/
+  578  ls
+  579  ls -l
+  580  cd /mnt/
+  581  ls
+  582  cd sdd
+  583  cd sdcard/
+  584  ls
+  585  ls -l robin/
+  586  sudo su
+  587  sudo apt update
+  588  apt list
+  589  sudo apt upgrade
+  590  cd Pyt
+  591  cd Documents/
+  592  cd Python/
+  593  ls
+  594  cd ..
+  595  ls
+  596  ls -l
+  597  ls -l -h
+  598  python try.py 
+  599  vi try.py
+  600  ls
+  601  cd Python/
+  602  ls
+  603  cd Geodata/
+  604  ls
+  605  cd geodata/
+  606  ls
+  607  cat README.txt 
+  608  les README.txt 
+  609  less README.txt 
+  610  ls
+  611  python geoload.py 
+  612  python geodump.py 
+  613  ls
+  614  firefox where.html 
+  615  ls
+  616  cat where.js 
+  617  ls
+  618  gedit where.html 
+  619  sudo su
+  620  ssh spread-love.info
+  621  ssh spread-love.info:27587
+  622  ssh spread-love.info:2705
+  623  ssh spread-love.info
+  624  ssh slkth@selektah.nl
+  625  mkdir ~/dosprogs
+  626  cd mysite
+  627  ls
+  628  mkdir python; mv popdb/ python
+  629  ls
+  630  cd python/
+  631  ls
+  632  mkdir mysite
+  633  cd mysite/
+  634  django-admin startproject mysite
+  635  ls
+  636  cd mysite/
+  637  ls
+  638  vi mysite/settings.py 
+  639  ls
+  640  python manage.py migrate
+  641  python manage.py runserver
+  642  python manage.py startapp polls
+  643  cd polls/
+  644  ls
+  645  apt search python command text editor
+  646  apt search python vim
+  647  apt install vim-python-jedi
+  648  sudo apt install vim-python-jedi
+  649  sudo apt install python-editor
+  650  ks
+  651  ls
+  652  vim models.py 
+  653  man vim-python
+  654  man vim-python-jedi
+  655  man python jedi
+  656  vi
+  657  ls
+  658  pygettext models.py 
+  659  ls
+  660  cat models.py 
+  661  idle-python2.7 models.py 
+  662  ls
+  663  cd ..
+  664  vi mysite/settings.py
+  665  python manage.py makemigrations polls
+  666  python manage.py sqlmigrate polls 0001
+  667  python manage.py migrate
+  668  python manage.py check
+  669  python manage.py migrate
+  670  python manage.py shell
+  671  python
+  672  ls
+  673  python manage.py shell
+  674  python polls/models.py
+  675  idle-python2.7 polls/models.py
+  676  python manage.py shell
+  677  python manage.py createsuperuser
+  678  python manage.py runserver
+  679  history > history.txt
